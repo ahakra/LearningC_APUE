@@ -1,6 +1,7 @@
 /*
 * Our own header, to be included before all standard system headers.
 */
+
 #ifndef _APUE_H
 #define _APUE_H
 #define _POSIX_C_SOURCE 200809L
